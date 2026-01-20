@@ -35,6 +35,6 @@ We benchmarked 5 architectures on the **SQuAD v1.1** dataset using **Mistral-7B*
 Clone the repository and install the dependencies.
 
 ```bash
-git clone [https://github.com/yourusername/local-rag-benchmark.git](https://github.com/yourusername/local-rag-benchmark.git)
+git clone [https://github.com/ovedtal1/Score_Aware_RAG.git](https://github.com/ovedtal1/Score_Aware_RAG.git)
 cd local-rag-benchmark
 pip install -r requirements.txt
