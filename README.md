@@ -23,6 +23,9 @@ We benchmarked 5 architectures on the **SQuAD v1.1** dataset using **Mistral-7B*
 | **Score-Aware** | **0.68** | **+54% Improvement** over baseline |
 | **Adversarial (The Liar)** | 0.59 | **Partial Resilience** (-13% drop) |
 
+### Performance Comparison
+![Performance Comparison](assets/performance_comparison.jpg)
+
 > **Conclusion:** Injecting confidence scores into the prompt is the most effective optimization for local RAG, far outperforming context re-ordering. The model showed surprising resilience to adversarial metadata attacks.
 
 ## Installation
